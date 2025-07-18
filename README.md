@@ -1,10 +1,10 @@
-# CIBIL Calculator 💳
+# CIBIL Calculator 
 
 A web-based application that simulates the calculation of an individual's CIBIL-like credit score. This project is developed using HTML, CSS, PHP, and MySQL, and is designed to educate users about the key factors affecting their creditworthiness.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 **CIBIL Calculator** is a simple, educational tool that allows users to estimate their credit score based on parameters like:
 
@@ -18,18 +18,18 @@ The score is calculated using a rule-based algorithm and ranges from **300 to 90
 
 ---
 
-## 💡 Features
+##  Features
 
-- 🔢 Credit Score Estimation
-- 📊 Personalized Feedback
-- 💾 Data Storage with MySQL
-- 🛡️ Secure Input Validation
-- 📱 Responsive Design
-- 🌐 Easy-to-use Interface
+-  Credit Score Estimation
+-  Personalized Feedback
+-  Data Storage with MySQL
+-  Secure Input Validation
+-  Responsive Design
+-  Easy-to-use Interface
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 | Layer        | Technology        |
 |--------------|-------------------|
@@ -40,7 +40,7 @@ The score is calculated using a rule-based algorithm and ranges from **300 to 90
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 cibil-calculator/
 ├── frontend/
